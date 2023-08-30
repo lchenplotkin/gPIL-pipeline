@@ -1,4 +1,4 @@
-# gPILVS-pipeline
+# gPIL-pipeline
 
 # Creating folders
 
